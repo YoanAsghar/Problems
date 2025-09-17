@@ -1,0 +1,24 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "description": "My own solutions to problems that i find on the internet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoanAsghar/Problems.git"
+  },
+  "keywords": [
+    "Problems",
+    "solutions",
+    "tests"
+  ],
+  "author": "Yoan Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoanAsghar/Problems/issues"
+  },
+  "homepage": "https://github.com/YoanAsghar/Problems#readme"
+}
